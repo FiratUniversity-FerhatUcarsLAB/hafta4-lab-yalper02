@@ -2,7 +2,7 @@
  * Ad Soyad: Yiğit Alper Ayhan
  * Öğrenci No: 250542014
  * Tarih: 04.11.2025
- * Açıklama: Geometrik Hesaplayıcı
+ * Açıklama: Geometrik Hesaplayıcı 
  */
 import java.util.Scanner;
 
